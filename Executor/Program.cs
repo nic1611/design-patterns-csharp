@@ -5,4 +5,4 @@ Console.WriteLine("Run executor");
 // new FactoryMethod.Conceptual.Program();
 // new Builder.Conceptual.Program();
 // new Prototype.Conceptual.Program();
-new Singleton.Conceptual.Program();
+new Decorator.Conceptual.Program();

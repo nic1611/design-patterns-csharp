@@ -6,6 +6,7 @@
     <ProjectReference Include="..\Builder\Builder.csproj" />
     <ProjectReference Include="..\Prototype\Prototype.csproj" />
     <ProjectReference Include="..\Singleton\Singleton.csproj" />
+    <ProjectReference Include="..\Decorator\Decorator.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
