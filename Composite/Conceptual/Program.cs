@@ -120,9 +120,9 @@ namespace RefactoringGuru.DesignPatterns.Composite.Conceptual
         }
     }
     
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public Program()
         {
             Client client = new Client();
 
